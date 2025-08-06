@@ -1,0 +1,42 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# === Environments ===
+.venv/
+venv/
+env/
+ENV/
+
+# === IDEs / Editors ===
+.vscode/
+.vs/
+.idea/
+
+# === System ===
+.DS_Store
+Thumbs.db
+
+# === Logs and output ===
+*.log
+*.csv
+*.sqlite3
+*.db
+*.tmp
+*.bak
+
+# === Project-specific ===
+results.csv
+plot.csv
+plot.png
+historical_products.csv
+your_products.csv
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === PIP ===
+pip-log.txt
