@@ -10,6 +10,8 @@ A lightweight Python tool to track product prices on eBay and plot historical pr
 - Generates historical price plots for specific keywords
 
 Here is an example results.csv:
+
+
 <img width="755" height="249" alt="Screenshot 2025-08-05 193203" src="https://github.com/user-attachments/assets/62f68a66-f131-494f-9ef8-a749b01b2335" />
 
 ---
