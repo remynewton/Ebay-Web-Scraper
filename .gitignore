@@ -28,13 +28,6 @@ Thumbs.db
 *.tmp
 *.bak
 
-# === Project-specific ===
-results.csv
-plot.csv
-plot.png
-historical_products.csv
-your_products.csv
-
 # === Jupyter ===
 .ipynb_checkpoints/
 
