@@ -1,6 +1,6 @@
 # 🛍️ Ebay Product Price Tracker
 
-A lightweight Python tool to track product prices on eBay and plot historical price trends.
+A lightweight Python tool to track product prices on eBay and plot historical price trends (focusing on the lowest price).
 
 ## 🔧 Features
 
